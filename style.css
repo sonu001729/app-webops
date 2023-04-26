@@ -164,7 +164,7 @@ background-color: black;
 
 @media (max-width: 1149px){
 *{
-    background-color: green;
+/*     background-color: green; */
 }
 .sidebar{
     transform: translate(-443px, 0px);
